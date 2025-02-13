@@ -9,7 +9,7 @@
 
 # Java class files
 *.class
-*.jar
+
 # Generated files
 bin/
 gen/
@@ -23,7 +23,7 @@ obj/
 
 # Gradle files
 *.iml
-.gradle/
+#.gradle
 build/
 /*/build/
 app/.externalNativeBuild/
